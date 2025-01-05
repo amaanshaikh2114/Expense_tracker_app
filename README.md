@@ -54,7 +54,3 @@ A simple Flutter project that provides an interface to add/delete expenses of di
 
 ## Contact
 For any questions or inquiries, please contact [Amaan Shaikh](mailto:amaanmazhar211@gmail.com). Send a mail to amaanmazhar211@gmail.com
-
-
-
-
