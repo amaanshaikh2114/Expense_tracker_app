@@ -15,7 +15,7 @@ A simple Flutter project that provides an interface to add/delete expenses of di
 
 ## Features
 - **Add expense:** Allows for addition of expenses.
-- **Delete expenses:** user can also delete expenses.
+- **Delete expense:** User can also delete expenses.
 - **View bar chart:** Displays the expenses in a visual format. The bar keeps updating according to the addition and deletion of tasks.
 
 ## Technologies Used
@@ -30,13 +30,12 @@ A simple Flutter project that provides an interface to add/delete expenses of di
    Type the following commands in your terminal after you have directed it to a particular directory.
    
    - git clone https://github.com/amaanshaikh2114/Expense_tracker_app.git
-    
 
+    
 ## Usage
 1. **Run the application:**
     Go to the directory where you have placed the project and type 'flutter run' in the terminal. Ensure flutter is recognized by your system by making sure it's in the 'Path' option of System variables by going to the environment variables of your system.
     
-
 2. **Add expense:**
     Use the '+' button to open the expense adding sheet and you can enter the title, date, category of expense and amount. Then click 'Save expense' button.
 
