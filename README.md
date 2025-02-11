@@ -43,10 +43,21 @@ A simple Flutter project that provides an interface to add/delete expenses of di
     To delete an expense swipe the expense card left/right.
 
 ## Screenshots
-<p align="center">
-  <img src="screenshots/home_page.png" alt="Home page" width="300"/>
-  <img src="screenshots/add_expense_sheet.png" alt="Add new expense sheet" width="300"/>
-  <img src="screenshots/expense_add_del.png" alt="Adding and deleting expenses" width="300"/>
+<p align="center" style="margin: 20px;">
+  <figure>
+    <figcaption align="center">Home page</figcaption>
+    <img src="screenshots/home_page.png" alt="Home page" width="300" style="padding-top: 10px;"/>
+  </figure>
+  
+  <figure>
+    <figcaption align="center">Sheet to add new expense</figcaption>
+    <img src="screenshots/add_expense_sheet.png" alt="Sheet to add new expense" width="300" style="padding-top: 10px;"/>
+  </figure>
+
+  <figure>
+    <figcaption align="center">Adding and deleting expense</figcaption>
+    <img src="screenshots/expense_add_del.png" alt="Adding and deleting expense" width="300" style="padding-top: 10px;"/>
+  </figure>
 </p>
 
 ## Credits
